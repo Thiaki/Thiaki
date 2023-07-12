@@ -1,4 +1,6 @@
-### Hi there 👋
+Seja bem vindo ao meu perfil de desenvolvedor.
+
+Estou começando meus trabalhos nessa rede, sinta-se livre para comentar, compartilhar e testar meus projetos
 
 <!--
 **Thiaki/Thiaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
