@@ -1,7 +1,7 @@
-Seja bem vindo ao meu perfil de desenvolvedor.
+# Seja bem vindo ao meu perfil de desenvolvedor.
 
-Atualmente estou no meu primeiro ano da faculdade Fiap.
-Fique a vontade para ver meus projetos e estudo! 
+## Atualmente estou no meu primeiro ano da faculdade Fiap.
+## Obrigado pela visita e fique a vontade para ver meus projetos e estudo!
 <!--
 **Thiaki/Thiaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
