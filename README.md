@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu perfil de desenvolvedor.
 
-Atualmente estou no meu primeiro ano da faculdade Fiap.
+Atualmente estou no meu último ano da faculdade Fiap.
 
 Obrigado pela visita e fique a vontade para ver meus projetos e estudo!
 <!--
